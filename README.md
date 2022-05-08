@@ -5,7 +5,7 @@
 ## Установка
 
 ```bash
-git clone git@github.com:Nataffka/gulp.git
+git clone https://github.com/Nataffka/gulp.git
 ```
 
 Предварительно в системе должен быть установлен [Node.js®](https://nodejs.org/)
